@@ -22,7 +22,7 @@ Knowing your target audience will influence design decisions, from color palette
 
 ### Card Sorting - Information, Groups, Pages
 
-###Wireframe – sketch of the key information and content that each page will need to show hierarchy and space needed. 
+### Wireframe – sketch of the key information and content that each page will need to show hierarchy and space needed. 
 
 - Sketch or shade areas where each element of the page will go.
 - Logo, primary navigation, headings and main bodies of text, etc.
